@@ -5,7 +5,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://github.com/askeyjw/2019-20_uProject_Magnetic_Nanowire_Modelling
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
