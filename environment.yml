@@ -11,3 +11,4 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - ubermag==0.22
