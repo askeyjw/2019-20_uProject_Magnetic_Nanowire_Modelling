@@ -1,7 +1,10 @@
 # Conda environment with environment.yml
 
+|Description| Badge| 
+| -- | -- | 
 |Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/askeyjw/2019-20_uProject_Magnetic_Nanowire_Modelling/blob/master/index.ipynb/master) | 
-A Binder-compatible repo with an `environment.yml` file.
+| License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
